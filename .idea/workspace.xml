@@ -1,0 +1,1614 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8ab4a12d-b41a-4bac-bfeb-68ee13344eba" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/admin/assets/img/work.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/admin/assets/webarch/fonts/custom-set.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/admin/assets/webarch/fonts/custom-set.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/admin/assets/webarch/fonts/custom-set.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/admin/assets/webarch/img/icon/Tick-2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/admin/assets/webarch/img/icon/Tick.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/admin/assets/webarch/img/icon/noti-cross-2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/admin/assets/webarch/img/icon/noti-cross.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/admin/assets/webarch/img/icon/online-2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/admin/assets/webarch/img/icon/online.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/admin/assets/webarch/img/icon/portlet-tray-2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/admin/assets/webarch/img/icon/portlet-tray.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/admin/assets/webarch/img/icon/status.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/admin/assets/webarch/img/icon/status2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/admin/assets/webarch/img/icon/top-tray-b.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/admin/assets/webarch/img/icon/top-tray-bx2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/admin/assets/webarch/img/icon/top-tray.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/admin/assets/webarch/img/icon/top-trayx2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/admin/assets/webarch/img/pullup.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/admin/assets/webarch/img/pullup2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/admin/assets/webarch/img/sidebar-menu-arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin/controllers/Auth.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin/controllers/Book.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin/controllers/Language.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin/views/auth/login.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin/views/book/form.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin/views/book/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin/views/language/form.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/modules/admin/views/language/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/admin/assets/js/book.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/admin/assets/js/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/admin/assets/plugins/typeahead.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/admin/assets/webarch/css/themes/webarch.coporate.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/admin/assets/webarch/css/themes/webarch.coporate.rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/admin/assets/webarch/css/themes/webarch.elegant.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/admin/assets/webarch/css/themes/webarch.elegant.rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/admin/assets/webarch/css/themes/webarch.simple.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/admin/assets/webarch/css/themes/webarch.simple.rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/admin/assets/webarch/css/webarch.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/admin/assets/webarch/css/webarch.rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/admin/assets/webarch/fonts/custom-set.dev.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/admin/assets/webarch/fonts/custom-set.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/admin/assets/webarch/js/webarch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/admin/views/layouts/navigation.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/.sass-cache/4a19cf49ca39d0ca12d0eeede1f8c47985b3bbe2/_bootstrap-overrides.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/.sass-cache/4f25e7470e383c6c18683fb82a17a050335e8155/_config.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/.sass-cache/4f25e7470e383c6c18683fb82a17a050335e8155/_layout.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/.sass-cache/5962b041299c580adb2ba703cce14270d8cfb259/_custom_animations.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/.sass-cache/604b99b1bee7f48e5e335facf65ac90b7c01a933/_bootstrap-overrides.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/.sass-cache/6e8fa0ca2337bee669a2ead511fd4837539ad7da/theme.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/.sass-cache/8694951a6926e32b2a543604d41915b342b7d36a/_custom_animations.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/.sass-cache/89f10c56a84469faafeed2fbb8dd35d3e86b10e2/_elements.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/.sass-cache/89f10c56a84469faafeed2fbb8dd35d3e86b10e2/_mixins.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/.sass-cache/93c5abef81e0ea962209c4387f7449bb54811ab3/_account.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/.sass-cache/93c5abef81e0ea962209c4387f7449bb54811ab3/_billing_form.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/.sass-cache/93c5abef81e0ea962209c4387f7449bb54811ab3/_calendar.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/.sass-cache/93c5abef81e0ea962209c4387f7449bb54811ab3/_datatables.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/.sass-cache/93c5abef81e0ea962209c4387f7449bb54811ab3/_docs.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/.sass-cache/93c5abef81e0ea962209c4387f7449bb54811ab3/_email_templates.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/.sass-cache/93c5abef81e0ea962209c4387f7449bb54811ab3/_form.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/.sass-cache/93c5abef81e0ea962209c4387f7449bb54811ab3/_form_product.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/.sass-cache/93c5abef81e0ea962209c4387f7449bb54811ab3/_gallery.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/.sass-cache/93c5abef81e0ea962209c4387f7449bb54811ab3/_index.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/.sass-cache/93c5abef81e0ea962209c4387f7449bb54811ab3/_invoice.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/.sass-cache/93c5abef81e0ea962209c4387f7449bb54811ab3/_latest_activity.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/.sass-cache/93c5abef81e0ea962209c4387f7449bb54811ab3/_pricing.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/.sass-cache/93c5abef81e0ea962209c4387f7449bb54811ab3/_pricing_alt.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/.sass-cache/93c5abef81e0ea962209c4387f7449bb54811ab3/_projects.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/.sass-cache/93c5abef81e0ea962209c4387f7449bb54811ab3/_reports.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/.sass-cache/93c5abef81e0ea962209c4387f7449bb54811ab3/_reports_alt.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/.sass-cache/93c5abef81e0ea962209c4387f7449bb54811ab3/_search.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/.sass-cache/93c5abef81e0ea962209c4387f7449bb54811ab3/_sidebar.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/.sass-cache/93c5abef81e0ea962209c4387f7449bb54811ab3/_signin.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/.sass-cache/93c5abef81e0ea962209c4387f7449bb54811ab3/_signup.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/.sass-cache/93c5abef81e0ea962209c4387f7449bb54811ab3/_status.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/.sass-cache/93c5abef81e0ea962209c4387f7449bb54811ab3/_steps.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/.sass-cache/93c5abef81e0ea962209c4387f7449bb54811ab3/_ui.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/.sass-cache/93c5abef81e0ea962209c4387f7449bb54811ab3/_user_profile.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/.sass-cache/93c5abef81e0ea962209c4387f7449bb54811ab3/_users.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/.sass-cache/93c5abef81e0ea962209c4387f7449bb54811ab3/_wizard.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/.sass-cache/acd3763bdbdef3f1ac9697dd7f25d279e4413081/_account.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/.sass-cache/acd3763bdbdef3f1ac9697dd7f25d279e4413081/_billing_form.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/.sass-cache/acd3763bdbdef3f1ac9697dd7f25d279e4413081/_calendar.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/.sass-cache/acd3763bdbdef3f1ac9697dd7f25d279e4413081/_datatables.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/.sass-cache/acd3763bdbdef3f1ac9697dd7f25d279e4413081/_docs.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/.sass-cache/acd3763bdbdef3f1ac9697dd7f25d279e4413081/_email_templates.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/.sass-cache/acd3763bdbdef3f1ac9697dd7f25d279e4413081/_form.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/.sass-cache/acd3763bdbdef3f1ac9697dd7f25d279e4413081/_form_product.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/.sass-cache/acd3763bdbdef3f1ac9697dd7f25d279e4413081/_gallery.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/.sass-cache/acd3763bdbdef3f1ac9697dd7f25d279e4413081/_index.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/.sass-cache/acd3763bdbdef3f1ac9697dd7f25d279e4413081/_invoice.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/.sass-cache/acd3763bdbdef3f1ac9697dd7f25d279e4413081/_latest_activity.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/.sass-cache/acd3763bdbdef3f1ac9697dd7f25d279e4413081/_pricing.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/.sass-cache/acd3763bdbdef3f1ac9697dd7f25d279e4413081/_pricing_alt.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/.sass-cache/acd3763bdbdef3f1ac9697dd7f25d279e4413081/_projects.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/.sass-cache/acd3763bdbdef3f1ac9697dd7f25d279e4413081/_reports.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/.sass-cache/acd3763bdbdef3f1ac9697dd7f25d279e4413081/_reports_alt.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/.sass-cache/acd3763bdbdef3f1ac9697dd7f25d279e4413081/_search.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/.sass-cache/acd3763bdbdef3f1ac9697dd7f25d279e4413081/_sidebar.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/.sass-cache/acd3763bdbdef3f1ac9697dd7f25d279e4413081/_signin.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/.sass-cache/acd3763bdbdef3f1ac9697dd7f25d279e4413081/_signup.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/.sass-cache/acd3763bdbdef3f1ac9697dd7f25d279e4413081/_status.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/.sass-cache/acd3763bdbdef3f1ac9697dd7f25d279e4413081/_steps.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/.sass-cache/acd3763bdbdef3f1ac9697dd7f25d279e4413081/_ui.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/.sass-cache/acd3763bdbdef3f1ac9697dd7f25d279e4413081/_user_profile.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/.sass-cache/acd3763bdbdef3f1ac9697dd7f25d279e4413081/_users.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/.sass-cache/acd3763bdbdef3f1ac9697dd7f25d279e4413081/_wizard.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/.sass-cache/ad3dbc8ad8226153be3f634dee8e18f8714b9c90/theme.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/.sass-cache/f0632ccd65fa691aea741c6b048a4689022a673c/_elements.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/.sass-cache/f0632ccd65fa691aea741c6b048a4689022a673c/_mixins.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/.sass-cache/fda682390b84aa5c089aa2b76a135ce0ad895b1a/_config.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/.sass-cache/fda682390b84aa5c089aa2b76a135ce0ad895b1a/_layout.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/bootstrap/_bootstrap-overrides.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/bootstrap/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/bootstrap/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/bootstrap/bootstrap_.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/bootstrap/bootstrap_.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/compiled/theme.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/compiled/theme_.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/dropzone.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/modules/_elements.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/modules/_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/partials/_config.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/partials/_layout.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/partials/pages/_account.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/partials/pages/_billing_form.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/partials/pages/_calendar.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/partials/pages/_datatables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/partials/pages/_docs.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/partials/pages/_email_templates.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/partials/pages/_form.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/partials/pages/_form_product.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/partials/pages/_gallery.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/partials/pages/_index.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/partials/pages/_invoice.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/partials/pages/_latest_activity.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/partials/pages/_pricing.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/partials/pages/_pricing_alt.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/partials/pages/_projects.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/partials/pages/_reports.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/partials/pages/_reports_alt.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/partials/pages/_search.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/partials/pages/_sidebar.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/partials/pages/_signin.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/partials/pages/_signup.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/partials/pages/_status.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/partials/pages/_steps.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/partials/pages/_ui.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/partials/pages/_user_profile.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/partials/pages/_users.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/partials/pages/_wizard.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/partials/snippets/_custom_animations.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/theme.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/vendor/animate.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/vendor/bootstrap-daterangepicker.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/vendor/bootstrap-switch.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/vendor/brankic.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/vendor/datepicker.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/vendor/entypo.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/vendor/font-awesome.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/vendor/font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/vendor/fullcalendar.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/vendor/fullcalendar.print.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/vendor/highlight.default.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/vendor/icomoon.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/vendor/ionicons.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/vendor/ionicons.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/vendor/jquery.dataTables.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/vendor/jquery.minicolors.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/vendor/messenger/messenger-spinner.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/vendor/messenger/messenger-theme-air.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/vendor/messenger/messenger-theme-block.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/vendor/messenger/messenger-theme-flat.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/vendor/messenger/messenger-theme-future.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/vendor/messenger/messenger-theme-ice.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/vendor/messenger/messenger.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/vendor/morris.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/vendor/offline.chrome.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/vendor/select2-bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/vendor/select2.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/vendor/shepherd.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/css/vendor/summernote.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/fonts/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/fonts/brankic.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/fonts/brankic.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/fonts/brankic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/fonts/brankic.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/fonts/entypo.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/fonts/entypo.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/fonts/entypo.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/fonts/entypo.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/fonts/icomoon.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/fonts/icomoon.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/fonts/icomoon.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/fonts/icomoon.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/fonts/ionicons.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/fonts/ionicons.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/fonts/ionicons.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/fonts/ionicons.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/icons/brankic/Read Me.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/icons/brankic/demo-files/demo.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/icons/brankic/demo-files/demo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/icons/brankic/demo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/icons/brankic/fonts/brankic.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/icons/brankic/fonts/brankic.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/icons/brankic/fonts/brankic.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/icons/brankic/fonts/brankic.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/icons/brankic/selection.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/icons/brankic/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/icons/entypo/Read Me.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/icons/entypo/demo-files/demo.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/icons/entypo/demo-files/demo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/icons/entypo/demo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/icons/entypo/fonts/entypo.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/icons/entypo/fonts/entypo.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/icons/entypo/fonts/entypo.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/icons/entypo/fonts/entypo.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/icons/entypo/selection.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/icons/entypo/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/icons/icomoon/Read Me.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/icons/icomoon/demo-files/demo.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/icons/icomoon/demo-files/demo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/icons/icomoon/demo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/icons/icomoon/fonts/icomoon.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/icons/icomoon/fonts/icomoon.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/icons/icomoon/fonts/icomoon.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/icons/icomoon/fonts/icomoon.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/icons/icomoon/selection.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/icons/icomoon/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/avatars/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/avatars/10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/avatars/11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/avatars/12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/avatars/13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/avatars/14.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/avatars/15.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/avatars/16.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/avatars/17.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/avatars/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/avatars/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/avatars/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/avatars/5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/avatars/6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/avatars/7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/avatars/8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/avatars/9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/bgs/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/bgs/10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/bgs/11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/bgs/12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/bgs/13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/bgs/14.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/bgs/15.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/bgs/16.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/bgs/17.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/bgs/18.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/bgs/19.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/bgs/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/bgs/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/bgs/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/bgs/5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/bgs/6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/bgs/7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/bgs/8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/bgs/9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/anchor.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/arrow-down.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/arrow-up.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/art.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/barchart.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/bike.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/biker.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/bikewheel.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/blimp.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/bomb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/booklet.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/bookshelf.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/briefcase.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/browser.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/calculator.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/calendar.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/camera.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/car.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/cart.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/carwheel.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/caution.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/chat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/check.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/clipboard.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/clock.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/cloud.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/compass.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/compose.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/computer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/cone.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/contacts.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/creditcard.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/crossroads.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/cruise.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/denied.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/dev.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/die.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/document.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/dolly.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/door.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/download.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/email.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/eye.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/fashion.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/flag.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/flame.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/folder.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/gas.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/gear.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/genius.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/global.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/globe.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/gps.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/hazard.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/heart.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/helicopter.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/hotair.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/hourglass.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/image.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/interstate.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/key.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/lightbulb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/location.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/locked.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/magnifyingglass.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/mail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/map.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/merge.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/mic.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/money.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/motorcycle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/music.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/news.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/parachute.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/pencil.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/phone.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/pie-chart.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/pin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/pin2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/plane.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/present.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/profle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/quote.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/racingflags.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/rainbow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/recycle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/ribbon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/roadblock.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/rocket.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/running.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/sailboat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/schooolbus.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/scissors.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/scooter.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/security.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/settings.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/shipwheel.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/shoeprints.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/shop.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/skateboard.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/smartphone.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/spaceshuttle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/speedometer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/stack.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/star.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/steeringwheel.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/stop.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/submarine.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/support.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/takeoff.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/target.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/taxi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/toolbox.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/tools.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/tractor.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/traffic.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/train.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/travelerbag.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/trends.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/trophy.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/truck.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/ufo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/umbrella.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/unicycle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/unlocked.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/upload.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/video.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/water.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/weather.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/windsock.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/windy.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/full-color/x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/anchor.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/arrow-down.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/arrow-up.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/art.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/barchart.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/bike.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/biker.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/bikewheel.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/blimp.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/bomb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/booklet.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/bookshelf.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/briefcase.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/browser.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/calculator.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/calendar.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/camera.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/car.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/cart.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/carwheel.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/caution.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/chat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/check.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/clipboard.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/clock.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/cloud.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/compass.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/compose.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/computer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/cone.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/contacts.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/creditcard.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/crossroads.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/cruise.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/denied.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/dev.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/die.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/document.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/dolly.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/door.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/download.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/email.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/eye.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/fashion.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/flag.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/flame.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/folder.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/gas.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/gear.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/genius.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/global.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/globe.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/gps.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/hazard.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/heart.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/helicopter.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/hotair.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/hourglass.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/image.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/interstate.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/key.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/lightbulb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/location.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/locked.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/magnifyingglass.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/mail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/map.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/merge.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/mic.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/money.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/motorcycle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/music.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/news.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/parachute.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/pencil.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/phone.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/piechart.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/pin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/pin2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/plane.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/present.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/profle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/quote.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/racingflags.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/rainbow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/recycle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/ribbon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/roadblock.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/rocket.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/running.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/sailboat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/schooolbus.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/scissors.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/scooter.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/security.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/settings.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/shipwheel.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/shoeprints.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/shop.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/skateboard.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/smartphone.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/spaceshuttle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/speedometer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/stack.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/star.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/steeringwheel.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/stop.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/submarine.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/support.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/takeoff.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/target.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/taxi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/toolbox.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/tools.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/tractor.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/traffic.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/train.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/travelerbag.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/trends.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/trophy.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/truck.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/ufo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/umbrella.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/unicycle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/unlocked.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/upload.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/video.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/water.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/weather.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/windsock.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/windy.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/circle-icons/one-color/x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/credit_card_types.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/datatables/back_disabled.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/datatables/back_enabled.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/datatables/back_enabled_hover.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/datatables/forward_disabled.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/datatables/forward_enabled.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/datatables/forward_enabled_hover.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/datatables/sort_asc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/datatables/sort_asc_disabled.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/datatables/sort_both.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/datatables/sort_desc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/datatables/sort_desc_disabled.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/emails/activation.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/emails/invoice.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/emails/notification.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/emails/welcome.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/google-drive.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/jquery.minicolors.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/noimg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/popover-arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/product.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/products/1.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/products/2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/products/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/products/4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/products/5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/products/6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/products/7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/products/8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/raty/cancel-off.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/raty/cancel-on.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/raty/star-half.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/raty/star-off.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/raty/star-on.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/ribbon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/select2-spinner.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/select2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/select2x2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/shots/1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/shots/10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/shots/2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/shots/3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/shots/4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/shots/5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/shots/6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/shots/7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/shots/8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/shots/9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/images/visa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/js/angular.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/js/bootstrap/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/js/bootstrap/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/js/bootstrap/bootstrap_.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/js/bootstrap/bootstrap_.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/js/draggabilly.pkgd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/js/dropzone.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/js/immutable.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/js/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/js/orders.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/js/packery.pkgd.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/js/select2/select2-spinner.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/js/select2/select2.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/js/select2/select2.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/js/select2/select2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/js/select2/select2x2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/js/theme.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/js/vendor/bootstrap-datepicker.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/js/vendor/bootstrap-daterangepicker.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/js/vendor/bootstrap-switch.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/js/vendor/fullcalendar.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/js/vendor/highlight.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/js/vendor/imagesloaded.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/js/vendor/jquery-ui-1.10.4.custom.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/js/vendor/jquery.cookie.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/js/vendor/jquery.dataTables.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/js/vendor/jquery.flot/excanvas.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/js/vendor/jquery.flot/jquery.colorhelpers.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/js/vendor/jquery.flot/jquery.colorhelpers.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/js/vendor/jquery.flot/jquery.flot.canvas.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/js/vendor/jquery.flot/jquery.flot.canvas.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/js/vendor/jquery.flot/jquery.flot.categories.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/js/vendor/jquery.flot/jquery.flot.categories.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/js/vendor/jquery.flot/jquery.flot.crosshair.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/js/vendor/jquery.flot/jquery.flot.crosshair.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/js/vendor/jquery.flot/jquery.flot.errorbars.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/js/vendor/jquery.flot/jquery.flot.errorbars.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/js/vendor/jquery.flot/jquery.flot.fillbetween.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/js/vendor/jquery.flot/jquery.flot.fillbetween.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/js/vendor/jquery.flot/jquery.flot.image.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/js/vendor/jquery.flot/jquery.flot.image.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/js/vendor/jquery.flot/jquery.flot.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/js/vendor/jquery.flot/jquery.flot.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/js/vendor/jquery.flot/jquery.flot.navigate.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/js/vendor/jquery.flot/jquery.flot.navigate.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/js/vendor/jquery.flot/jquery.flot.pie.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/js/vendor/jquery.flot/jquery.flot.pie.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/js/vendor/jquery.flot/jquery.flot.resize.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/js/vendor/jquery.flot/jquery.flot.resize.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/js/vendor/jquery.flot/jquery.flot.selection.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/js/vendor/jquery.flot/jquery.flot.selection.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/js/vendor/jquery.flot/jquery.flot.stack.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/js/vendor/jquery.flot/jquery.flot.stack.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/js/vendor/jquery.flot/jquery.flot.symbol.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/js/vendor/jquery.flot/jquery.flot.symbol.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/js/vendor/jquery.flot/jquery.flot.threshold.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/js/vendor/jquery.flot/jquery.flot.threshold.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/js/vendor/jquery.flot/jquery.flot.time.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/js/vendor/jquery.flot/jquery.flot.time.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/js/vendor/jquery.flot/jquery.flot.tooltip.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/js/vendor/jquery.maskedinput.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/js/vendor/jquery.minicolors.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/js/vendor/jquery.raty.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/js/vendor/jquery.validate.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/js/vendor/messenger/messenger-theme-flat.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/js/vendor/messenger/messenger-theme-future.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/js/vendor/messenger/messenger.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/js/vendor/messenger/messenger.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/js/vendor/moment.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/js/vendor/morris.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/js/vendor/offline.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/js/vendor/raphael-min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/js/vendor/select2.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/js/vendor/shepherd.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/js/vendor/summernote.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/admin/assets/js/vendor/zoomerang.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/config/database.php" afterPath="$PROJECT_DIR$/application/config/database.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/helpers/slug_helper.php" afterPath="$PROJECT_DIR$/application/helpers/slug_helper.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/admin/views/layouts/index.php" afterPath="$PROJECT_DIR$/themes/admin/views/layouts/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/admin/views/layouts/login.php" afterPath="$PROJECT_DIR$/themes/admin/views/layouts/login.php" />
+    </list>
+    <ignored path="kpcomic.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="kpcomic" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Book.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/application/modules/admin/controllers/Book.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.73255813">
+              <caret line="47" column="40" selection-start-line="47" selection-start-column="40" selection-end-line="47" selection-end-column="40" />
+              <folding>
+                <marker date="1450524766000" expanded="true" signature="545:582" placeholder="select * fro... book" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="slug_helper.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/helpers/slug_helper.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-8.125">
+              <caret line="13" column="41" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Language.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/modules/admin/controllers/Language.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-20.583334">
+              <caret line="119" column="45" selection-start-line="118" selection-start-column="8" selection-end-line="119" selection-end-column="45" />
+              <folding>
+                <marker date="1450514000000" expanded="true" signature="341:363" placeholder="select * fro... language" />
+                <marker date="1450514000000" expanded="true" signature="592:633" placeholder="select * fro... language" />
+                <marker date="1450514000000" expanded="true" signature="759:823" placeholder="select * fro... string_translation" />
+                <marker date="1450514000000" expanded="true" signature="1271:1337" placeholder="select * fro... language" />
+                <marker date="1450514000000" expanded="true" signature="3160:3201" placeholder="select * fro... language" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/admin/views/layouts/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-39.583332">
+              <caret line="107" column="20" selection-start-line="107" selection-start-column="20" selection-end-line="107" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="navigation.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/admin/views/layouts/navigation.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-21.583334">
+              <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="form.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/modules/admin/views/book/form.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-13.125">
+              <caret line="50" column="63" selection-start-line="50" selection-start-column="54" selection-end-line="50" selection-end-column="63" />
+              <folding>
+                <marker date="1450522970000" expanded="true" signature="1051:1073" placeholder="select * fro... language" />
+                <marker date="1450522970000" expanded="true" signature="1572:1594" placeholder="select * fro... language" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="book.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/admin/assets/js/book.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="5" column="61" selection-start-line="5" selection-start-column="61" selection-end-line="5" selection-end-column="61" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/admin/assets/js/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.5555556">
+              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="WARN_ABOUT_CRLF" value="false" />
+    <option name="WARN_ABOUT_DETACHED_HEAD" value="false" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/application/config/database.php" />
+        <option value="$PROJECT_DIR$/application/modules/admin/controllers/Auth.php" />
+        <option value="$PROJECT_DIR$/.htaccess" />
+        <option value="$PROJECT_DIR$/themes/admin/views/layouts/login.php" />
+        <option value="$PROJECT_DIR$/application/modules/admin/views/auth/login.php" />
+        <option value="$PROJECT_DIR$/application/modules/admin/views/book/index.php" />
+        <option value="$PROJECT_DIR$/application/modules/admin/views/language/form.php" />
+        <option value="$PROJECT_DIR$/application/modules/admin/controllers/Language.php" />
+        <option value="$PROJECT_DIR$/application/modules/admin/views/language/index.php" />
+        <option value="$PROJECT_DIR$/themes/admin/assets/plugins/jquery-datatable/extra/js/datatables.js" />
+        <option value="$PROJECT_DIR$/themes/admin/views/layouts/index.php" />
+        <option value="$PROJECT_DIR$/themes/admin/assets/js/main.js" />
+        <option value="$PROJECT_DIR$/themes/admin/views/layouts/navigation.php" />
+        <option value="$PROJECT_DIR$/themes/admin/assets/js/book.js" />
+        <option value="$PROJECT_DIR$/application/modules/admin/views/book/form.php" />
+        <option value="$PROJECT_DIR$/application/helpers/slug_helper.php" />
+        <option value="$PROJECT_DIR$/application/modules/admin/controllers/Book.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1" />
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="1002" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kpcomic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kpcomic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kpcomic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kpcomic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kpcomic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kpcomic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kpcomic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layouts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kpcomic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kpcomic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kpcomic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kpcomic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="plugins" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kpcomic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kpcomic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kpcomic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kpcomic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kpcomic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kpcomic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kpcomic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kpcomic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kpcomic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kpcomic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="orders" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kpcomic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kpcomic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="language" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kpcomic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kpcomic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="book" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kpcomic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kpcomic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kpcomic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kpcomic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kpcomic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kpcomic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="helpers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kpcomic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kpcomic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="last_opened_file_path" value="/usr/bin/git" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/themes/admin/assets/plugins/jquery-datatable/extra/js" />
+      <recent name="$PROJECT_DIR$/themes/admin/assets/plugins" />
+      <recent name="$PROJECT_DIR$/themes/admin/assets/img" />
+      <recent name="$PROJECT_DIR$/themes/admin/assets" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ab4a12d-b41a-4bac-bfeb-68ee13344eba" name="Default" comment="" />
+      <created>1450495971632</created>
+      <option name="number" value="Default" />
+      <updated>1450495971632</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1" y="23" width="1920" height="1002" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2550586" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/application/modules/admin/controllers/Book.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="44" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/admin/views/layouts/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="85" selection-start-line="18" selection-start-column="85" selection-end-line="18" selection-end-column="85" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/admin/views/layouts/navigation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/admin/views/book/form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="43" column="50" selection-start-line="43" selection-start-column="41" selection-end-line="43" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/admin/assets/js/book.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/bundle/demo/HTML/form_elements.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1064" column="20" selection-start-line="1064" selection-start-column="20" selection-end-line="1064" selection-end-column="117" />
+          <folding>
+            <element signature="n#ul#0;n#div#2;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#select#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#5;n#div#2;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/admin/assets/webarch/js/webarch.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/bundle/demo/HTML/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.625">
+          <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.05102041">
+          <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7167832">
+          <caret line="69" column="29" selection-start-line="69" selection-start-column="29" selection-end-line="69" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/bundle/demo/HTML/login_v2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-18.125">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="128" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/admin/views/auth/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.55944055">
+          <caret line="32" column="36" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/admin/controllers/Auth.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.25">
+          <caret line="10" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/bundle/barebone/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.052447554">
+          <caret line="3" column="34" selection-start-line="0" selection-start-column="0" selection-end-line="521" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/bundle/demo/HTML/icons.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="264" column="47" selection-start-line="264" selection-start-column="35" selection-end-line="264" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/admin/views/layouts/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5962733">
+          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/admin/assets/plugins/bootstrap-tag/bootstrap-tagsinput.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/admin/assets/plugins/bootstrap-tag/bootstrap-tagsinput.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/admin/assets/plugins/bootstrap-tag/bootstrap-tagsinput.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/bundle/demo/HTML/form_elements.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1064" column="20" selection-start-line="1064" selection-start-column="20" selection-end-line="1064" selection-end-column="117" />
+          <folding>
+            <element signature="n#ul#0;n#div#2;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#select#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#5;n#div#2;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/admin/assets/plugins/typeahead.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/admin/controllers/Bio.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.27906978">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/admin/views/book/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/admin/views/orders/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/bundle/demo/HTML/assets/js/datatables.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="3.4504085">
+          <caret line="204" column="4" selection-start-line="204" selection-start-column="4" selection-end-line="205" selection-end-column="121" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/bundle/demo/HTML/datatables.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.017441861">
+          <caret line="1706" column="49" selection-start-line="436" selection-start-column="14" selection-end-line="436" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/admin/views/language/form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.5">
+          <caret line="20" column="23" selection-start-line="16" selection-start-column="8" selection-end-line="20" selection-end-column="23" />
+          <folding>
+            <marker date="1450513765000" expanded="true" signature="1892:1942" placeholder="select * fro... string_translation" />
+            <marker date="1450513765000" expanded="true" signature="2064:2128" placeholder="select * fro... string_translation" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/admin/views/language/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.875">
+          <caret line="27" column="68" selection-start-line="27" selection-start-column="61" selection-end-line="27" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/admin/views/layouts/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-39.583332">
+          <caret line="107" column="20" selection-start-line="107" selection-start-column="20" selection-end-line="107" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/admin/views/layouts/navigation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-21.583334">
+          <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/admin/assets/js/book.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="61" selection-start-line="5" selection-start-column="61" selection-end-line="5" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/admin/assets/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.5555556">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/admin/views/book/form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.125">
+          <caret line="50" column="63" selection-start-line="50" selection-start-column="54" selection-end-line="50" selection-end-column="63" />
+          <folding>
+            <marker date="1450522970000" expanded="true" signature="1051:1073" placeholder="select * fro... language" />
+            <marker date="1450522970000" expanded="true" signature="1572:1594" placeholder="select * fro... language" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/admin/controllers/Language.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-20.583334">
+          <caret line="119" column="45" selection-start-line="118" selection-start-column="8" selection-end-line="119" selection-end-column="45" />
+          <folding>
+            <marker date="1450514000000" expanded="true" signature="341:363" placeholder="select * fro... language" />
+            <marker date="1450514000000" expanded="true" signature="592:633" placeholder="select * fro... language" />
+            <marker date="1450514000000" expanded="true" signature="759:823" placeholder="select * fro... string_translation" />
+            <marker date="1450514000000" expanded="true" signature="1271:1337" placeholder="select * fro... language" />
+            <marker date="1450514000000" expanded="true" signature="3160:3201" placeholder="select * fro... language" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/helpers/slug_helper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.125">
+          <caret line="13" column="41" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/admin/controllers/Book.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.73255813">
+          <caret line="47" column="40" selection-start-line="47" selection-start-column="40" selection-end-line="47" selection-end-column="40" />
+          <folding>
+            <marker date="1450524766000" expanded="true" signature="545:582" placeholder="select * fro... book" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
