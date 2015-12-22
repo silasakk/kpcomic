@@ -5101,6 +5101,9 @@ form legend,
 .ui-sortable {
   min-height: 25px !important;
 }
+.dropzone.ui-sortable {
+  min-height: 360px !important;
+}
 .ui-sortable-placeholder {
   border: 1px dotted black;
   visibility: visible !important;

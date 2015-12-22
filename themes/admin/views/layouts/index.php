@@ -13,12 +13,16 @@
     <link href="themes/admin/assets/plugins/bootstrapv3/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
     <link href="themes/admin/assets/plugins/bootstrapv3/css/bootstrap-theme.min.css" rel="stylesheet" type="text/css" />
     <link href="themes/admin/assets/plugins/font-awesome/css/font-awesome.css" rel="stylesheet" type="text/css" />
+    <link href="themes/admin/assets/plugins/dropzone/css/dropzone.css" rel="stylesheet" type="text/css"/>
     <link href="themes/admin/assets/plugins/animate.min.css" rel="stylesheet" type="text/css" />
     <link href="themes/admin/assets/plugins/jquery-scrollbar/jquery.scrollbar.css" rel="stylesheet" type="text/css" />
     <link href="themes/admin/assets/plugins/bootstrap-select2/select2.css" rel="stylesheet" type="text/css">
     <link href="themes/admin/assets/plugins/bootstrap-tag/bootstrap-tagsinput.min.css" rel="stylesheet" type="text/css">
     <link href="themes/admin/assets/plugins/jquery-datatable/css/jquery.dataTables.css" rel="stylesheet" type="text/css">
     <link href="themes/admin/assets/plugins/datatables-responsive/css/datatables.responsive.css" rel="stylesheet" type="text/css" media="screen">
+    <link href="themes/admin/assets/plugins/bootstrap-datepicker/css/datepicker.css" rel="stylesheet" type="text/css">
+    <link href="themes/admin/assets/plugins/bootstrap-timepicker/css/bootstrap-timepicker.css" rel="stylesheet" type="text/css">
+    <link href="themes/admin/assets/plugins/boostrap-clockpicker/bootstrap-clockpicker.min.css" rel="stylesheet" type="text/css" media="screen"/>
 
 
     <!-- END PLUGIN CSS -->
@@ -44,7 +48,7 @@
             <!-- END MOBILE HEADER -->
             <!-- BEGIN LOGO -->
             <a href=javascript:;>
-                <img src="themes/admin/assets/img/logo.png" class="logo" alt="" data-src="themes/admin/assets/img/logo.png" data-src-retina="themes/admin/assets/img/logo2x.png" width="106" height="21" />
+                <img src="themes/admin/assets/img/logo.png" class="logo" alt="" data-src="themes/admin/assets/img/logo.png" data-src-retina="themes/admin/assets/img/logo2x.png"  height="21" />
             </a>
             <!-- END LOGO -->
 
@@ -123,6 +127,14 @@
 <script src="themes/admin/assets/plugins/jquery-datatable/extra/js/dataTables.tableTools.min.js" type="text/javascript"></script>
 <script type="text/javascript" src="themes/admin/assets/plugins/datatables-responsive/js/datatables.responsive.js"></script>
 <script type="text/javascript" src="themes/admin/assets/plugins/datatables-responsive/js/lodash.min.js"></script>
+<script src="themes/admin/assets/plugins/dropzone/dropzone.js" type="text/javascript"></script>
+<script src="themes/admin/assets/plugins/bootstrap-timepicker/js/bootstrap-timepicker.min.js" type="text/javascript"></script>
+<script src="themes/admin/assets/plugins/jquery-ui/jquery-ui-1.10.1.custom.min.js" type="text/javascript"></script>
+<script src="themes/admin/assets/plugins/bootstrap-datepicker/js/bootstrap-datepicker.js" type="text/javascript"></script>
+<script src="themes/admin/assets/plugins/boostrap-clockpicker/bootstrap-clockpicker.min.js" type="text/javascript"></script>
+
+
+
 
 <!-- END CORE JS DEPENDECENCIES-->
 <!-- BEGIN CORE TEMPLATE JS -->

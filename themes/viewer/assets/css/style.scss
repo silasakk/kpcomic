@@ -1,0 +1,104 @@
+body{
+
+}
+.viewer{
+  background: #383839;
+  overflow: hidden;
+  cursor: pointer;
+  a{
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+  }
+  a:hover{
+    text-decoration: none;
+    color:#fff;
+  }
+  .prev-btn{
+    float: left;
+    padding: 0 20px;
+  }
+  .next-btn{
+    float: right;
+    padding: 0 20px;
+  }
+
+}
+#mybook{
+
+
+}
+.bar-header{
+  background: rgba(0,0,0,0.8);
+  height: 50px;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 2;
+  line-height: 50px;
+}
+.bar-footer{
+  background: rgba(0,0,0,0.8);
+  height: 50px;
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  z-index: 2;
+  line-height: 50px;
+
+}
+
+.b1 {
+  background: #ffffff url("../book/001.png") no-repeat center center;
+  background-size: 100%;
+}
+.b2 {
+  background: #ffffff url("../book/002.png") no-repeat center center;
+  background-size: 100%;
+}
+.b3 {
+  background: #ffffff url("../book/003.png") no-repeat center center;
+  background-size: 100%;
+}
+.b4 {
+  background: #ffffff url("../book/004.png") no-repeat center center;
+  background-size: 100%;
+}
+.b5 {
+  background: #ffffff url("../book/005.png") no-repeat center center;
+  background-size: 100%;
+}
+
+.b7 {
+  background: #ffffff url("../book/007.png") no-repeat center center;
+  background-size: 100%;
+}
+.b8 {
+  background: #ffffff url("../book/008.png") no-repeat center center;
+  background-size: 100%;
+}
+.b9 {
+  background: #ffffff url("../book/0010.png") no-repeat center center;
+  background-size: 100%;
+}
+.land {
+  background: #ffffff url("../book/006.png") no-repeat left center;
+  background-size: 200%;
+}
+.wowbook-right .land {
+  background-position: right center;
+}
+.range-input{
+  margin-top: 5px;
+  width: 300px;
+  position: absolute;
+  display: inherit;
+  left: 50%;
+  margin-left: -150px;
+  line-height: normal;
+  color: #fff;
+  text-align: center;
+
+}
